@@ -1,5 +1,7 @@
 # ReactSOLV
 
+This project is still a WIP and is temporarily on hold.
+
 ReactSOLV (Simple Object List Visualizer) is a general purpose library for generating, managing, and displaying lists of JS objects.
 
 There are 4 packages currently available:
